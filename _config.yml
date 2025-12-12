@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Siyua Mu / Site Title"
+title                    : "Siyua Mu"
 title_separator          : "-"
 name                     : &name "Siyuan Mu"
 description              : &description "This is my personal website."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/Musiyuan/photoStorage/blob/main/beauty_1765532147082.jpeg"
+  avatar           : "photo/beauty_1765532147082.jpeg"
   name             : "Ann Mu"
   pronouns         : # example: "she/her"  
   bio              : "A senior student at Sichuan Agricultural University, with research interests in continual learning and VLMs."
