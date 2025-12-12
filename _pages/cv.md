@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,6 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
+---
 ## Education
 
 **Sichuan Agricultural University**, Ya’an, CN  
@@ -22,7 +23,7 @@ Sep 2022 - Jun 2026
 - Algorithm Design and Analysis, Python, C language programming, Matlab,  
 - Probability Theory and Mathematical Statistics, Abstract Algebra, Data Structure,  
 - Computer Networks, Computer Operating System.
-
+---
 ## Research Experience
 
 ### **Sparse and Adaptive Mixture of Experts for Task-Incremental Continual Learning**  
@@ -55,24 +56,24 @@ Sep 2022 - Jun 2026
 - Developed a framework diagram to illustrate the model architecture.  
 - Helped refine the research paper to ensure compliance with official guidelines and logical consistency.
 
+---
 
 ## Academic Services
 
 **Reviewer**, *Robotics and Computer-Integrated Manufacturing*  
 - Conducted peer reviews for manuscripts on mixture-of-experts, robotics, ensuring methodological rigor and relevance to the field.
-
+---
 
 ## Publications
 
 1. **ChengAo Shen**, Siyuan Mu, Ge Diao, "Emoji Kitchen with Controlled Fusion", *ICLR 2024 TinyPapers*.
-
-
+---
 ## Preprints
 
 1. **Siyuan Mu** and Sen Lin, "A Comprehensive Survey of Mixture-of-Experts: Algorithms, Theory, and Applications".  
 *(Under Review at IEEE Transactions on Neural Networks and Learning Systems)*  
-[Google Scholar Citations: 42]
 
+---
 
 ## Additional Information
 
